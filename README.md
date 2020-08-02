@@ -4,6 +4,9 @@
   to make your resume online beautifull. Just download it and modify as you need
   to show your friends and potential customers.
 </p>
+
+<h2>Demo</h2>
+<p><a href="https://htmlpreview.github.io/?https://github.com/acaart/BeVcard/master/index.html">Demo</a></p>
 <h2>Check out the Features</h2>
 <ul>
   <li>Full Responsive Design</li>
